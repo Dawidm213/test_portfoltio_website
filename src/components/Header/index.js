@@ -11,7 +11,7 @@ const Header = () => {
     let { page } = useParams();
 
     const tabs = [
-        { label: "HOME", link: "/" },
+        { label: "HOME", link: "/test_portfoltio_website" },
         { label: "ABOUT", link: "/About" },
         { label: "ANIMATIONS", link: "/Animations" },
         { label: "PAGES", link: "/Pages" },
